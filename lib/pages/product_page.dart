@@ -17,20 +17,20 @@ class ProductPage extends StatefulWidget {
 
 class _ProductPageState extends State<ProductPage> {
   List images = [
-    'assets/image_shoes.png',
-    'assets/image_shoes.png',
-    'assets/image_shoes.png',
+    // 'assets/image_shoes.png',
+    // 'assets/image_shoes.png',
+    // 'assets/image_shoes.png',
   ];
 
   List familiarShoes = [
-    'assets/image_shoes.png',
-    'assets/image_shoes2.png',
-    'assets/image_shoes3.png',
-    'assets/image_shoes4.png',
-    'assets/image_shoes5.png',
-    'assets/image_shoes6.png',
-    'assets/image_shoes7.png',
-    'assets/image_shoes8.png',
+    // 'assets/image_shoes.png',
+    // 'assets/image_shoes2.png',
+    // 'assets/image_shoes3.png',
+    // 'assets/image_shoes4.png',
+    // 'assets/image_shoes5.png',
+    // 'assets/image_shoes6.png',
+    // 'assets/image_shoes7.png',
+    // 'assets/image_shoes8.png',
   ];
 
   int currentIndex = 0;

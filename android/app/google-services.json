@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "98883792249",
-    "project_id": "shamo-79ea5",
-    "storage_bucket": "shamo-79ea5.appspot.com"
+    "project_number": "245905117146",
+    "project_id": "shamo-e3dc5",
+    "storage_bucket": "shamo-e3dc5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:98883792249:android:4b155fbedcf88f8bbc53a8",
+        "mobilesdk_app_id": "1:245905117146:android:f6d54cec799de9356cfae3",
         "android_client_info": {
-          "package_name": "com.rifqieh.shamo"
+          "package_name": "com.easeet.shamo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "98883792249-801g4q4t1bjhhi6erd8b84bpqsl3jkbj.apps.googleusercontent.com",
+          "client_id": "245905117146-ubetc9t0e5bkqvjp8b1ns4k0608q5iag.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCR2UPmkel4N-oBdPHgzFDz68sEE6EyONQ"
+          "current_key": "AIzaSyBAY3iBJEGwEk3AUEMF0aTS1PhKsEnuj1A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "98883792249-801g4q4t1bjhhi6erd8b84bpqsl3jkbj.apps.googleusercontent.com",
+              "client_id": "245905117146-ubetc9t0e5bkqvjp8b1ns4k0608q5iag.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
